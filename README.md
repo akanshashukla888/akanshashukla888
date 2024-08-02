@@ -1,7 +1,5 @@
 # Hi, I'm AKANSHA SHUKLA 👋
 
--- <img src="assets/background.jpg" alt="Background Image" style="width:100%; height:200px; object-fit:cover;">
-
 Welcome to my GitHub profile! I am a dynamic Digital Marketing and Sales Executive with a unique blend of creativity and strategy. With hands-on experience in 
 crafting compelling stories and driving revenue growth, I am passionate about expanding my skills in innovative environments.
 
